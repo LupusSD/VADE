@@ -107,6 +107,7 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.45px;
     color: #393737;
+    cursor: pointer;
 }
 
 .title button:hover {
