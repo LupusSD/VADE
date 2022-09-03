@@ -63,7 +63,7 @@ nav {
     width: 1235px;
     height: 670px;
     margin: 0 auto;
-    background-image: url(/images/header/title_bg.png);
+    background-image: url(images/header/title_bg.png);
     background-size: cover;
 }
 
@@ -101,7 +101,7 @@ h1 {
 .tech {
     width: 100%;
     height: 900px;
-    background-image: url(/images/tech/tech_bg.png);
+    background-image: url(images/tech/tech_bg.png);
     background-size: cover;
 }
 
@@ -205,7 +205,7 @@ h1 {
     margin: 60px auto 0 auto;
     width: 1200px;
     height: 615px;
-    background-image: url(/images/data/data_bg.png);
+    background-image: url(images/data/data_bg.png);
     background-position: right;
     background-repeat: no-repeat;
     position: relative;
