@@ -45,6 +45,11 @@ nav {
     margin-top: 10px;
 }
 
+.nav li a:hover {
+    color: black;
+    transition: 500ms;
+}
+
 .nav_btn {
     width: 125px;
     height: 45px;
@@ -57,6 +62,12 @@ nav {
     border: 1px solid rgba(57, 55, 55, 0.4);
     border-radius: 5px;
     cursor: pointer;
+}
+
+.nav_btn:hover {
+    color: black;
+    background-color: rgba(255, 234, 48);
+    transition: 500ms;
 }
 
 .title {
@@ -96,6 +107,13 @@ h1 {
     line-height: 24px;
     letter-spacing: 0.45px;
     color: #393737;
+}
+
+.title button:hover {
+    color: rgba(57, 55, 55, 0.4);
+    background: rgba(255, 234, 48, 0.2);
+    border: 1px solid rgba(57, 55, 55, 0.4);
+    transition: 500ms;
 }
 
 .tech {
@@ -143,6 +161,11 @@ h1 {
     border: 1px solid rgba(57, 55, 55, 0.4);
     border-radius: 5px;
     cursor: pointer;
+}
+
+.tech_title button:hover {
+    background-color: rgba(255, 234, 48);
+    transition: 500ms;
 }
 
 .tech_desc {
